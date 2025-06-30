@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Developer with a frontend focus (React, TypeScript, HTML/CSS)<br>🎨 Passionate about building clean, responsive UI/UX<br>⚙️ Basic backend skill with .NET<br>🛠️ Familiar with Redux, Tailwind, styled-components, and API integration<br>🚀 Always learning and exploring new tech to improve my craft</p>
+<p align="left">💻 A Full Stack Developer with a frontend focus (React, TypeScript, HTML/CSS)<br>🎨 Passionate about building clean, responsive UI/UX<br>⚙️ Basic backend skill with .NET<br>🛠️ Familiar with Redux, Tailwind, styled-components, and API integration<br>🚀 Always learning and exploring new tech to improve my craft</p>
 
 ###
 
